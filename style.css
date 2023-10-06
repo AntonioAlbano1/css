@@ -1,0 +1,160 @@
+/* Your styles here */
+body {
+    background-color: #E9EDEE;
+}
+
+
+.logo {
+    background-color: #222F3F;
+    padding-bottom: 10px;
+}
+
+.logo img {
+    height: 50px;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+
+#menu {
+  background-color: #364759;
+  padding: 10px;
+}
+
+.lista a {
+    color:white;
+    margin: 7px;
+    font-size: 18px;
+    text-decoration: none;
+    
+}
+
+.lista li{
+    display: inline;
+   
+}
+
+section {
+padding-left: 30px;
+padding-right: 30px;
+}
+
+h6 {
+    background-color: #F56600;
+padding: 10px;
+margin-top: 30px;
+text-align: center;
+color: white;
+font-size: 17px;
+}
+
+.regali {
+    background-image: url("./images/bg-image.png");
+    background-size: 100%;
+    margin-top: 30px;
+    padding: 40px;
+}
+
+h3 {
+    text-align: center;
+    color: white;
+    font-size: 40px;
+}
+
+.regali p {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+h4 {font-size: 15px;}
+
+.shop { 
+margin-left: 15px;
+}
+ .shop a{ 
+    text-decoration: none;
+    color:#126071;
+    font-size: 15px;
+ }
+
+#immagini {
+
+    background-color: white;
+    width: auto;
+    margin-top: 20px;
+    height: 310px;
+     
+}
+
+.foto img {
+    width: 248px;
+    padding: 7px;
+    border-radius: 10%;
+    margin-top: 15px;
+    box-shadow: 4px 3px 8px 3px rgba(0,0,0,0.35);
+
+}
+
+.foto li {
+    display: inline;
+   
+}
+
+.virtuale{
+    margin-top: 20px;
+
+}
+ .virtuale img {
+     height: 280px;
+     width: 1124px;
+ }
+
+ .virtuale p{
+    text-align: center;
+    font-size: 17px;
+ }
+
+ .virtuale a{
+    padding-left: 10px;
+    text-decoration: none;
+    color:#126071;
+    font-size: 15px;
+ }
+
+ .musica {margin-top: 20px;}
+
+ .musica img {height: 280px;
+    width: 1124px;}
+
+    .musica p{
+        text-align: center;
+        font-size: 17px;}
+
+        .musica a{
+            padding-left: 10px;
+            text-decoration: none;
+            color:#126071;
+            font-size: 15px;
+         }
+        
+
+         .tornasu {
+         background-color: #364759;
+            text-align: center;
+            font-size: 14px;
+        padding: 15px;
+         }
+         .tornasu a {
+            color: white;
+         }
+
+         .fine { 
+            background-color: #222F3F;
+            text-align: center;
+         }
+         .fine img {
+            width: 180px;
+            margin-top: 20px;
+            padding: 40px;
+         }
